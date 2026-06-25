@@ -72,36 +72,18 @@ DB 연결 오류, 누락 테이블, DAO와 DB 스키마 불일치, 화면 흐름
 
 ## Main Project
 
-### 알고먹자 - Java Swing 식단·운동 관리 프로그램
+### [알고먹자 - Java Swing 식단·운동 관리 프로그램](https://github.com/loche01/algomeokja-java-swing)
 
 기존 Eclipse 기반 Java Swing 프로젝트를 macOS 환경에서 복구하고,
 MySQL 연동 오류, 누락 DB 테이블, 운동 기능 흐름, 기록 저장 SQL, README 문서화까지 개선한 프로젝트입니다.
 
-**GitHub**
-https://github.com/loche01/algomeokja-java-swing
+| 구분         | 내용                                               |
+| ---------- | ------------------------------------------------ |
+| 주요 기술      | Java, Java Swing, MySQL, JDBC, DAO               |
+| 주요 경험      | 실행 환경 복구, DB 스키마 보완, SQL 오류 수정, GitHub 공개 정리     |
+| Repository | https://github.com/loche01/algomeokja-java-swing |
 
-#### 주요 개선 내용
-
-* macOS 환경에서 Eclipse Java 프로젝트 실행 환경 복구
-* MySQL Connector/J 설정 및 빌드 경로 문제 해결
-* DB 접속 정보를 `db.properties`로 분리
-* 실제 DB 설정 파일을 Git 추적 대상에서 제외
-* DAO 코드와 실제 DB 스키마 비교
-* 누락 테이블 및 컬럼 보완
-* 운동 목록 화면 흐름 개선
-* 운동 검색 후 원본 목록 복구
-* 운동 기록 저장 SQL 보정
-* README, 실행 방법, DB 설정 방법 문서화
-* GitHub Public 저장소 정리
-
-#### 배운 점
-
-기존 프로젝트를 복구하며 단순히 코드를 작성하는 것보다
-실행 환경, DB 구조, 화면 흐름, Git 관리, 문서화가 함께 맞아야
-프로젝트가 실제로 동작한다는 점을 경험했습니다.
-
-또한 기능을 한 번에 크게 수정하기보다
-문제를 작은 단위로 나누고, 분석 → 수정 → 실행 확인 → 커밋 순서로 진행하는 방식이 안정적이라는 것을 배웠습니다.
+> 자세한 실행 방법과 개선 내역은 프로젝트 Repository README에서 확인할 수 있습니다.
 
 ---
 
