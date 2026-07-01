@@ -10,7 +10,7 @@ Java와 DB 기반 프로젝트를 통해
 <a href="https://github.com/loche01">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://viridian-eris-a17.notion.site/Java-Web-Developer-Portfolio-38aa70546c1580e09171cd4a328ffa94">
+<a href="https://viridian-eris-a17.notion.site/Java-Web-Developer-Portfolio-38aa70546c1580e09171cd4a328ffa94?pvs=73">
   <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 
@@ -110,6 +110,6 @@ const developer = {
 
 ## Portfolio & Contact
 
-* Portfolio: https://viridian-eris-a17.notion.site/Java-Web-Developer-Portfolio-38aa70546c1580e09171cd4a328ffa94
+* Portfolio: [https://viridian-eris-a17.notion.site/Java-Web-Developer-Portfolio-38aa70546c1580e09171cd4a328ffa94](https://viridian-eris-a17.notion.site/Java-Web-Developer-Portfolio-38aa70546c1580e09171cd4a328ffa94?pvs=73)
 * GitHub: https://github.com/loche01
 * Email: [inchulme0826@gmail.com](mailto:inchulme0826@gmail.com)
