@@ -83,7 +83,7 @@ MySQL 연동 오류, 누락 DB 테이블, 운동 기능 흐름, 기록 저장 SQ
 | 주요 경험      | 실행 환경 복구, DB 스키마 보완, SQL 오류 수정, GitHub 공개 정리     |
 | Repository | https://github.com/loche01/algomeokja-java-swing |
 
-> 자세한 실행 방법과 개선 내역은 프로젝트 Repository README에서 확인할 수 있습니다.
+> 자세한 실행 방법과 개선 내역은 프로젝트 README에서 확인할 수 있습니다.
 
 ---
 
