@@ -65,26 +65,11 @@ DB 연결 오류, 누락 테이블, DAO와 DB 스키마 불일치, 화면 흐름
 
 | Project                                                  | Description                         | Stack                                            |
 | -------------------------------------------------------- | ----------------------------------- | ------------------------------------------------ |
-| [알고먹자](https://github.com/loche01/algomeokja-java-swing) | Java Swing 기반 식단·운동 관리 프로그램 복구 및 개선 | Java, Swing, MySQL, JDBC                         |
+| [알고먹자](https://github.com/loche01/algomeokja-java-swing) | 4인 팀으로 개발한 식단·운동 관리 프로그램 / 프로젝트 종료 후 개인 개선 | Java, Swing, MySQL, JDBC |
 | EVERYWEAR                                                | JSP/Servlet 기반 남녀 공용 의류 쇼핑몰         | JSP, Servlet, Java, Oracle DB                    |
 | 퍼뜩가라 병원                                                  | Java와 Oracle DB 기반 병원 예약 관리 프로그램    | Java, Oracle DB, JDBC, Stored Procedure, Trigger |
 
 ---
-
-## Main Project
-
-### [알고먹자 - Java Swing 식단·운동 관리 프로그램](https://github.com/loche01/algomeokja-java-swing)
-
-기존 Eclipse 기반 Java Swing 프로젝트를 macOS 환경에서 복구하고,
-MySQL 연동 오류, 누락 DB 테이블, 운동 기능 흐름, 기록 저장 SQL, README 문서화까지 개선한 프로젝트입니다.
-
-| 구분         | 내용                                               |
-| ---------- | ------------------------------------------------ |
-| 주요 기술      | Java, Java Swing, MySQL, JDBC, DAO               |
-| 주요 경험      | 실행 환경 복구, DB 스키마 보완, SQL 오류 수정, GitHub 공개 정리     |
-| Repository | https://github.com/loche01/algomeokja-java-swing |
-
-> 자세한 실행 방법과 개선 내역은 프로젝트 README에서 확인할 수 있습니다.
 
 ---
 
