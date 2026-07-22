@@ -95,6 +95,6 @@ const developer = {
 
 ## Portfolio & Contact
 
-* Portfolio: [[https://viridian-eris-a17.notion.site/Java-Web-Developer-Portfolio-38aa70546c1580e09171cd4a328ffa94](https://app.notion.com/p/39fa70546c15806581fbf6b3b70e7145)](https://viridian-eris-a17.notion.site/Java-Web-Developer-Portfolio-38aa70546c1580e09171cd4a328ffa94?pvs=73)
+* Portfolio: [[https://viridian-eris-a17.notion.site/Java-Web-Developer-Portfolio-38aa70546c1580e09171cd4a328ffa94](https://app.notion.com/p/39fa70546c15806581fbf6b3b70e7145)]
 * GitHub: https://github.com/loche01
 * Email: [inchulme0826@gmail.com](mailto:inchulme0826@gmail.com)
