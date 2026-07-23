@@ -10,7 +10,7 @@ Java와 DB 기반 프로젝트를 통해
 <a href="https://github.com/loche01">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://app.notion.com/p/SW-3a3a70546c1580bdb2a2d0d193b0955f">
+<a href="[https://app.notion.com/p/SW-3a3a70546c1580bdb2a2d0d193b0955f](https://app.notion.com/p/39fa70546c15806581fbf6b3b70e7145)">
   <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 
