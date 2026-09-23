@@ -10,7 +10,7 @@ Java와 DB 기반 프로젝트를 통해
 <a href="https://github.com/loche01">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://app.notion.com/p/39fa70546c15806581fbf6b3b70e7145">
+<a href="https://app.notion.com/p/3e4a70546c15812a89cbe7b6a51d3e47">
   <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 
@@ -67,11 +67,11 @@ Java, JSP/Servlet, MySQL, Oracle DB 기반 프로젝트를 경험하며
 
 ## Featured Projects
 
-| Project                                                  | Description                         | Stack                                            |
-| -------------------------------------------------------- | ----------------------------------- | ------------------------------------------------ |
-| [everyWEAR](https://github.com/loche01/everywear-legacy) | 5인 팀으로 개발한 의류 쇼핑몰 / 프로젝트 종료 후 개인 복구·보안 개선 | Java, JSP, Servlet, MySQL, Tomcat |
-| [알고먹자](https://github.com/loche01/algomeokja-java-swing) | 4인 팀으로 개발한 식단·운동 관리 프로그램 / 프로젝트 종료 후 개인 개선 | Java, Swing, MySQL, JDBC |
-| 퍼뜩가라 병원                                                  | Java와 Oracle DB 기반 병원 예약 관리 프로그램    | Java, Oracle DB, JDBC, Stored Procedure, Trigger |
+| Project | Description | Stack | Portfolio |
+| --- | --- | --- | --- |
+| [everyWEAR](https://github.com/loche01/everywear-legacy) | 5인 팀으로 개발한 의류 쇼핑몰 / 프로젝트 종료 후 개인 복구·보안 개선 | Java, JSP, Servlet, MySQL, Tomcat | [Notion](https://app.notion.com/p/3e4a70546c15812a89cbe7b6a51d3e47) |
+| [알고먹자](https://github.com/loche01/algomeokja-java-swing) | 4인 팀으로 개발한 식단·운동 관리 프로그램 / 프로젝트 종료 후 개인 개선 | Java, Swing, MySQL, JDBC | [Notion](https://app.notion.com/p/3e4a70546c15814a9160d310f9f74469) |
+| 퍼뜩가라 병원 | Java와 Oracle DB 기반 병원 예약 관리 프로그램 | Java, Oracle DB, JDBC, Stored Procedure, Trigger | - |
 
 ---
 
