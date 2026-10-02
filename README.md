@@ -14,7 +14,7 @@ Java와 DB 기반 프로젝트를 통해
   <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
 
-<a href="mailto:inchulme0826@gmail.com">
+<a href="mailto:loche01@naver.com">
   <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
