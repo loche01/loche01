@@ -71,7 +71,6 @@ Java, JSP/Servlet, MySQL, Oracle DB 기반 프로젝트를 경험하며
 | --- | --- | --- | --- |
 | [everyWEAR](https://github.com/loche01/everywear-legacy) | 5인 팀으로 개발한 의류 쇼핑몰 / 프로젝트 종료 후 개인 복구·보안 개선 | Java, JSP, Servlet, MySQL, Tomcat | [Notion](https://app.notion.com/p/3e4a70546c15812a89cbe7b6a51d3e47) |
 | [알고먹자](https://github.com/loche01/algomeokja-java-swing) | 4인 팀으로 개발한 식단·운동 관리 프로그램 / 프로젝트 종료 후 개인 개선 | Java, Swing, MySQL, JDBC | [Notion](https://app.notion.com/p/3e4a70546c15814a9160d310f9f74469) |
-| 퍼뜩가라 병원 | Java와 Oracle DB 기반 병원 예약 관리 프로그램 | Java, Oracle DB, JDBC, Stored Procedure, Trigger | 저장소 비공개 |
 
 ---
 
